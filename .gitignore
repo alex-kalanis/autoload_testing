@@ -1,0 +1,7 @@
+# Editor configuration
+.idea/
+
+# checks
+phpunit
+phpunit-*
+.phpunit*
